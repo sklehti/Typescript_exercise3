@@ -1,4 +1,4 @@
-# To ran locally:
+# To run locally:
 
 The source code of the backend can be found in https://github.com/fullstack-hy2020/flight-diary
 
